@@ -1,0 +1,25 @@
+{
+  "name": "demo-script-generator-app",
+  "version": "1.0.0",
+  "description": "AI-powered demo script generator for marketers",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "demo",
+    "script",
+    "generator",
+    "marketing",
+    "ai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "19.0.12",
+    "typescript": "5.8.2"
+  }
+}
